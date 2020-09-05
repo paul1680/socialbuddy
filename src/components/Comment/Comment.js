@@ -22,8 +22,7 @@ const Comment = () => {
                     <div className='eachComment'>
                       <h3><Image></Image>name: {n.name}</h3>
                        <h4>email: {n.email}</h4>
-                       <p>{n.body}</p>
-                       <p>lala{n.url}</p>           
+                       <p>{n.body}</p>          
                     </div>
                     
                     )
